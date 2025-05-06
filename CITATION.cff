@@ -2,20 +2,20 @@ cff-version: 1.2.0
 message: "If you use this data or code, please cite it as below."
 authors:
   - family-names: Deschamps
-  given-names: Lucas
-  orcid: https://orcid.org/1234-5678-9101-1121
+    given-names: Lucas
+    orcid: https://orcid.org/1234-5678-9101-1121
   - family-names: Paillassa
-  given-names: Jennifer
-  orcid: https://orcid.org/0000-0002-0683-4693
+    given-names: Jennifer
+    orcid: https://orcid.org/0000-0002-0683-4693
   - family-names: Maire
-  given-names: Vincent
-  orcid: https://orcid.org/0000-0002-3245-2568
+    given-names: Vincent
+    orcid: https://orcid.org/0000-0002-3245-2568
   - family-names: Lévesque
-  given-names: Esther
-  orcid: https://orcid.org/0000-0002-1119-6032
+    given-names: Esther
+    orcid: https://orcid.org/0000-0002-1119-6032
 title: "Data an codes for the 'C and N isotopic fractionation along permafrost profiles across the Arctic: a data-reanalysis' paper"
 version: 1.0.0
 identifiers:
   - type: doi
-  value: 10.5281/zenodo.15350471
+    value: 10.5281/zenodo.15350471
 date-released: 2025-05-06
