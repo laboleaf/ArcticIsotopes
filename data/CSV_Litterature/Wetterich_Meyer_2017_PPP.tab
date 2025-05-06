@@ -1,0 +1,41 @@
+/* DATA DESCRIPTION:
+Citation:	Wetterich, Sebastian; Schirrmeister, Lutz (2017): Sediment data from the pingo exposure AWI_12P-1908-A. PANGAEA, https://doi.org/10.1594/PANGAEA.884357, 
+	In supplement to: Wetterich, Sebastian; Schirrmeister, Lutz; Nazarova, Larisa B; Palagushkina, Olga V; Bobrov, Anatoly A; Pogosyan, Lilith; Savelieva, Larissa A; Syrykh, Ludmila S; Matthes, Heidrun; Fritz, Michael; Günther, Frank; Opel, Thomas; Meyer, Hanno (2018): Holocene thermokarst and pingo development in the Kolyma Lowland (NE Siberia). Permafrost and Periglacial Processes, 29(3), 182-198, https://doi.org/10.1002/ppp.1979
+Project(s):	Permafrost Research (Periglacial Dynamics) @ AWI (AWI_PerDyn) (URI: http://www.awi.de/en/science/geosciences/periglacial-research.html)
+Coverage:	LATITUDE: 69.038360 * LONGITUDE: 161.006420
+	MINIMUM HEIGHT above ground: 1.70 m * MAXIMUM HEIGHT above ground: 6.90 m
+Event(s):	AWI_12P-1908-A * LATITUDE: 69.038360 * LONGITUDE: 161.006420 * LOCATION: East Siberia * CAMPAIGN: RU-Land_2012_Kytalyk_Kolyma (Kytalyk-Pokhodsk_2012, Kolyma2012) (URI: https://doi.org/10.2312/BzPM_0697_2016) * BASIS: AWI Arctic Land Expedition * METHOD/DEVICE: Sampling/measurement on land (LAND)
+Comment:	Three profiles (12P-1908-A, 12P-2008-A, 12P-2208-A) of exposed deposits were sampled in course of the expedition Pokhodsk 2012 in the Kolyma Lowland, which contained frozen sediments. The samples were afterward analysed for granulometry, magnetic susceptibility, organic matter composition (TOC, TC, TIC, TN, TOC/TN, d13C), and radiocarbon dated.
+Parameter(s):	Sample code/label (Sample label) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	HEIGHT above ground [m] (Height) * GEOCODE * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: m.l.l.
+	Distance, relative [m] (Dist rel) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Sample material (Sample material) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Age, dated [ka] (Age dated) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Age, dated standard deviation [±] (Age dated std dev) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Laboratory code/label (Lab label) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Ice content [%] (Ice) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: absolute wt. %
+	Susceptibility [sensor values] (Suscept) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: HF SI
+	Carbon, organic, total [%] (TOC) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: wt. %
+	Carbon, total [%] (TC) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: wt. %
+	Carbon, inorganic, total [%] (TIC) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: wt. %
+	Nitrogen, total [%] (TN) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: wt. %
+	Carbon, organic, total/Nitrogen, total ratio (TOC/TN) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	δ13C, organic carbon [‰ PDB] (δ13C Corg) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html)
+	Grain size, mean [µm] (Grain size mean) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: arithmetic
+	Size fraction < 0.002 mm, clay [%] (<2 µm) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: vol. %
+	Size fraction 0.063-0.002 mm, silt, mud [%] (63-2 µm) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: vol. %
+	Size fraction 2.000-0.063 mm, sand [%] (2000-63 µm) * PI: Wetterich, Sebastian (https://orcid.org/0000-0001-9234-1192, Sebastian.Wetterich@awi.de, http://www.awi.de/en/about-us/organisation/staff/sebastian-wetterich.html) * COMMENT: vol. %
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	161 data points
+*/
+Sample label	Height [m]	Dist rel [m]	Sample material	Age dated [ka]	Age dated std dev [±]	Lab label	Ice [%]	Suscept [sensor values]	TOC [%]	TC [%]	TIC [%]	TN [%]	TOC/TN	δ13C Corg [‰ PDB]	Grain size mean [µm]	<2 µm [%]	63-2 µm [%]	2000-63 µm [%]
+12P-1908-A-08	6.90	46.4	sediment					47.6	10.2	10.9	0.7	0.70	13.7	-28.16	26.9	16.60	68.60	14.8
+12P-1908-A-09	6.50	45.0	sediment	3.855	0.035	Poz-50918	87.6	47.2	28.4	27.7		1.70	17.0	-28.91	15.4	19.90	74.70	5.4
+12P-1908-A-10	6.00	45.0	sediment				66.0	32.2	8.4	9.2	0.8	0.50	15.6	-28.32	29.8	12.80	71.40	15.8
+12P-1908-A-11	5.50	45.0	sediment					95.5	6.6	7.0	0.4	0.50	14.5	-28.20	43.6	11.80	61.50	26.7
+12P-1908-A-12	5.20	45.0	sediment	6.850	0.050	Poz-50919	75.4	29.0	6.3	7.0	0.6	0.50	14.0	-28.29	36.3	12.10	65.20	22.7
+12P-1908-A-13	4.60	45.0	sediment				93.1	57.2	38.8	43.0	4.2	2.50	15.5	-28.52	273.0	3.33	25.27	71.4
+12P-1908-A-14	4.00	45.0	sediment	8.290	0.050	Poz-50920	78.4	35.4	14.1	16.7	2.6	1.00	13.6	-28.17	22.8	17.90	72.40	9.7
+12P-1908-A-15	3.50	45.0	sediment					32.2	7.8	8.7	0.9	0.60	13.4	-28.05	46.3	12.90	59.70	27.4
+12P-1908-A-17	2.50	45.0	sediment	8.610	0.050	Poz-50921	88.3	26.1	18.1	19.1	0.9	1.10	15.8	-28.26	36.6	14.40	63.60	22.0
+12P-1908-A-19	1.70	45.0	sediment	9.210	0.050	Poz-50923	93.8	77.7	37.1	40.6	3.5	1.60	22.5	-28.71	186.5	4.15	30.15	65.7
