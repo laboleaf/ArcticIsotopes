@@ -15,7 +15,6 @@ authors:
     orcid: https://orcid.org/0000-0002-1119-6032
 title: "Data an codes for the 'C and N isotopic fractionation along permafrost profiles across the Arctic: a data-reanalysis' paper"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.15350471
+doi: 10.5281/zenodo.15350471
 date-released: 2025-05-06
+url: "https://github.com/laboleaf/ArcticIsotopes"
