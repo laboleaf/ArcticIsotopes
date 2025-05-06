@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/978757025.svg)](https://doi.org/10.5281/zenodo.15350470)
+
 # Arctic_Isotopes
 This repository contains data and codes to perform theoretical prediction and reanalysis of Arctic C and N stable isotopes in soil profiles.
 
